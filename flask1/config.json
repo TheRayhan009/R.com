@@ -1,8 +1,8 @@
 {
     "paramiters":{
         "local_server":"True",
-        "local_uri":"mysql://root:@localhost/flask_rayhan",
-        "prodaction_uri":"mysql://root:@localhost/flask_rayhan",
+        "local_uri":"Your port",
+        "prodaction_uri":"Your port",
         "name":"TheRayhan PY",
         "numberr":"01748834165",
         "gmail":"rayhanthestorymaker@gmail.com",
